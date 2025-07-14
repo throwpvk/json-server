@@ -1,1 +1,66 @@
-{}
+{
+  "tasks": [
+    {
+      "id": "821e",
+      "title": "kill the dog",
+      "description": "kill the dog",
+      "category": "meeting",
+      "priority": "low",
+      "startTime": "11:11",
+      "endTime": "23:11",
+      "dueDate": "2025-07-14",
+      "color": "blue",
+      "isCompleted": true,
+      "isHidden": false
+    },
+    {
+      "id": "bf17",
+      "title": "kill the cat",
+      "description": "kill the cat",
+      "category": "development",
+      "priority": "high",
+      "startTime": "23:11",
+      "endTime": "23:11",
+      "dueDate": "2025-07-17",
+      "color": "yellow",
+      "isCompleted": true,
+      "isHidden": false
+    },
+    {
+      "id": "c0f6",
+      "title": "kill the fish",
+      "description": "kill the fish",
+      "category": "development",
+      "priority": "urgent",
+      "startTime": "14:22",
+      "endTime": "14:33",
+      "dueDate": "2025-07-18",
+      "color": "pink",
+      "isCompleted": true,
+      "isHidden": false
+    },
+    {
+      "id": "c15d",
+      "title": "kill the pig",
+      "description": "kill the pig",
+      "category": "client",
+      "priority": "high",
+      "startTime": "15:33",
+      "endTime": "16:44",
+      "dueDate": "2025-07-20",
+      "color": "green",
+      "isCompleted": false,
+      "isHidden": false
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "khai"
+    },
+    {
+      "id": "2",
+      "name": "dog"
+    }
+  ]
+}
