@@ -62,5 +62,113 @@
       "id": "2",
       "name": "dog"
     }
-  ]
+  ],
+  "fileSystem": {
+    "id": 1,
+    "name": "root",
+    "children": [
+      {
+        "id": 2,
+        "name": "folder_1",
+        "children": [
+          {
+            "id": 3,
+            "name": "folder_1_sub_1",
+            "children": [
+              {
+                "id": 4,
+                "name": "file_1_1.txt",
+                "content": "This is the content of file_1_1.txt"
+              },
+              {
+                "id": 5,
+                "name": "image_1_1.jpg",
+                "content": "https://cdn.shopify.com/s/files/1/1083/2612/files/hd4_480x480.jpg?v=1739170015"
+              },
+              {
+                "id": 5005,
+                "name": "folder_1_sub_1_sub_1",
+                "children": [
+                  {
+                    "id": 4005,
+                    "name": "file_1_1.txt",
+                    "content": "This is the content of file_1_1.txt"
+                  },
+                  {
+                    "id": 5004,
+                    "name": "image_1_1.jpg",
+                    "content": "https://cdn.shopify.com/s/files/1/1083/2612/files/hd4_480x480.jpg?v=1739170015"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "folder_1_sub_2",
+            "children": [
+              {
+                "id": 7,
+                "name": "file_1_2.txt",
+                "content": "This is the content of file_1_2.txt"
+              },
+              {
+                "id": 8,
+                "name": "image_1_2.jpg",
+                "content": "https://cdn.shopify.com/s/files/1/1083/2612/files/hd4_480x480.jpg?v=1739170015"
+              }
+            ]
+          },
+          {
+            "id": 9,
+            "name": "folder_1_sub_3",
+            "children": [
+              {
+                "id": 10,
+                "name": "file_1_3.txt",
+                "content": "This is the content of file_1_3.txt"
+              },
+              {
+                "id": 11,
+                "name": "image_1_3.jpg",
+                "content": "https://cdn.shopify.com/s/files/1/1083/2612/files/hd4_480x480.jpg?v=1739170015"
+              }
+            ]
+          },
+          {
+            "id": 12,
+            "name": "folder_1_sub_4",
+            "children": [
+              {
+                "id": 13,
+                "name": "file_1_4.txt",
+                "content": "This is the content of file_1_4.txt"
+              },
+              {
+                "id": 14,
+                "name": "image_1_4.jpg",
+                "content": "https://cdn.shopify.com/s/files/1/1083/2612/files/hd4_480x480.jpg?v=1739170015"
+              }
+            ]
+          },
+          {
+            "id": 15,
+            "name": "folder_1_sub_5",
+            "children": [
+              {
+                "id": 16,
+                "name": "file_1_5.txt",
+                "content": "This is the content of file_1_5.txt"
+              },
+              {
+                "id": 17,
+                "name": "image_1_5.jpg",
+                "content": "https://cdn.shopify.com/s/files/1/1083/2612/files/hd4_480x480.jpg?v=1739170015"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
