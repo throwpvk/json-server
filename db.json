@@ -1,4 +1,21 @@
-{
+{ "redux-tasks": [
+    {
+      "id": "1",
+      "title": "kill the dog"
+    },
+    {
+      "id": "2",
+      "title": "kill the dog 2"
+    },
+    {
+      "id": "3",
+      "title": "kill the dog 3"
+    },
+    {
+      "id": "4",
+      "title": "kill the dog 4"
+    }
+  ],
   "tasks": [
     {
       "id": "821e",
